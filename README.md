@@ -17,11 +17,11 @@ A modern video streaming application built with Flask and FFmpeg that supports a
 - FFmpeg
 - Modern web browser with HTML5 video support
 
-## Installation
+## Setup Development Environment
 
-1. Clone the repository:
+1. Fork and Clone the repository:
 ```bash
-git clone https://github.com/srajasimman/flask-streamer.git
+git clone https://github.com/yourusername/flask-streamer.git
 cd flask-streamer
 ```
 
